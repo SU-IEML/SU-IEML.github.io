@@ -54,7 +54,7 @@ navigationLinks:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "<typeout>" 
-eventDate: "IEML, September - November, 2020"
+eventDate: "IEML, June, 2020"
 
 typeoutTextValues: '"", "Shedding light into the Black Box", "Interpretability and Evaluation of Machine Learning in Science", "Stockholm", "Sweden", "2020"'
 typeoutFallback: ""
