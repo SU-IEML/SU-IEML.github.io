@@ -2,35 +2,45 @@
   id: 0
   name: "Chun-Biu"
   surname: "Li"
-  title: ""
-  thumbnailUrl: 
+  title: "SU, Math Department"
+  thumbnailUrl: cbl.jpg 
   team: true
   ribbon: 
     - {abbr: "SU Math", title: "SU, Math Department"}
+  social: 
+    - {name: "site", link: "https://www.su.se/english/profiles/chunl-1.292564"}
   
 - 
   id: 1
   name: "Jens"
   surname: "Jasche"
-  title: ""
-  thumbnailUrl: 
+  title: "SU, Physics Department"
+  thumbnailUrl: jj.jpg
   team: true
   ribbon: 
     - {abbr: "SU Physics", title: "SU, Physics Department"}
+  social: 
+    - {name: "site", link: "https://www.su.se/english/profiles/jeja4711-1.368011"}
 - 
   id: 2
   name: "Astrid"
   surname: "de Wijn"
-  title: ""
-  thumbnailUrl: 
+  title: "NTNU, Mechanical and Industrial Engineering Department"
+  thumbnailUrl: adw.jpg
   team: true
   ribbon: 
     - {abbr: "NTNU", title: "Norwegian University of Science and Technology"}
+  social: 
+    - {name: "site", link: "https://www.ntnu.edu/employees/astrid.dewijn"}
+
+
+
+
 - 
   id: 3
   name: "Stefano"
   surname: "Bo"
-  title: ""
+  title: "MPI for the Physics of Complex Systems"
   thumbnailUrl: 
   team: true
   ribbon: 
