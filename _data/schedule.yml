@@ -1,47 +1,154 @@
 - 
-  date: "2020-06-15"
+  date: "2019-06-15"
   dateReadable: "Monday 15"
   tracks: 
-    - {title: "IEML workshowp", color: "#90be4e"}
+    - {title: "IEML workshop", color: "#e91e63"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
+    	startTime: "14:00",
+    	endTime: "14:15",
+    	sessionIds: [001]
+    }
+    - {
+        startTime: "14:15",
+        endTime: "15:30",
+        sessionIds: [002]
+    }
+    - {
+    	startTime: "15:30",
+    	endTime: "15:50",
+    	sessionIds: [003]
+    }
+    - {
+    	startTime: "15:50",
+    	endTime: "16:20",
+    	sessionIds: [307]
+    }
+    - {
+    	startTime: "16:20",
+    	endTime: "17:05",
+    	sessionIds: [004]
+    }
+    - {
+    	startTime: "17:05",
+    	endTime: "17:25",
+    	sessionIds: [003]
+    }
+    - {
+    	startTime: "17:25",
+    	endTime: "17:45",
+    	sessionIds: [003]
+    }
+
+- 
+  date: "2019-06-16"
+  dateReadable: "Tuesday 16"
+  tracks: 
+    - {title: "IEML workshop", color: "#03a9f4"}
+  timeslots: 
+    - {
+    	startTime: "09:00",
+    	endTime: "10:15",
     	sessionIds: [002]
+    }
+    - {
+    	startTime: "10:15",
+    	endTime: "11:00",
+    	sessionIds: [004]
     }
     - {
         startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003]
+        endTime: "11:30",
+        sessionIds: [307]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
-    }
-- 
-  date: "2020-06-16"
-  dateReadable: "Tuesday 17"
-  tracks: 
-    - {title: "IEML workshowp", color: "#90be4e"}
-  timeslots: 
-    - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [404]
+    	startTime: "11:30",
+    	endTime: "11:50",
+    	sessionIds: [003]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [002]
+    	startTime: "11:50",
+    	endTime: "12:10",
+    	sessionIds: [003]
     }
     - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [003]
+    	startTime: "12:10",
+    	endTime: "12:30",
+    	sessionIds: [003]
+    }
+    - {
+    	startTime: "12:30",
+    	endTime: "14:00",
+    	sessionIds: [503]
     }
     - {
     	startTime: "14:00",
-    	endTime: "15:00",
+    	endTime: "15:15",
+    	sessionIds: [002]
+    }
+    - {
+    	startTime: "15:15",
+    	endTime: "17:45",
+    	sessionIds: [005]
+    }
+- 
+  date: "2019-06-17"
+  dateReadable: "Wednesday 17"
+  tracks: 
+    - {title: "IEML workshop", color: "#03a9f4"}
+  timeslots: 
+    - {
+    	startTime: "09:00",
+    	endTime: "10:15",
+    	sessionIds: [002]
+    }
+    - {
+    	startTime: "10:15",
+    	endTime: "11:00",
+    	sessionIds: [004]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:30",
+        sessionIds: [307]
+    }
+    - {
+    	startTime: "11:30",
+    	endTime: "11:50",
+    	sessionIds: [003]
+    }
+    - {
+    	startTime: "11:50",
+    	endTime: "12:10",
+    	sessionIds: [003]
+    }
+    - {
+    	startTime: "12:10",
+    	endTime: "12:30",
+    	sessionIds: [003]
+    }
+    - {
+    	startTime: "12:30",
+    	endTime: "14:00",
     	sessionIds: [503]
+    }
+    - {
+    	startTime: "14:00",
+    	endTime: "15:45",
+    	sessionIds: [004]
+    }
+    - {
+    	startTime: "14:45",
+    	endTime: "15:05",
+    	sessionIds: [003]
+    }
+    - {
+    	startTime: "15:05",
+    	endTime: "15:25",
+    	sessionIds: [003]
+    }
+    - {
+    	startTime: "15:25",
+    	endTime: "15:45",
+    	sessionIds: [006]
     }
