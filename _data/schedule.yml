@@ -1,6 +1,6 @@
 - 
   date: "2020-06-15"
-  dateReadable: "October 24"
+  dateReadable: "Monday 15"
   tracks: 
     - {title: "IEML workshowp", color: "#90be4e"}
   timeslots:
@@ -21,7 +21,7 @@
     }
 - 
   date: "2020-06-16"
-  dateReadable: "October 25"
+  dateReadable: "Tuesday 17"
   tracks: 
     - {title: "IEML workshowp", color: "#90be4e"}
   timeslots: 
