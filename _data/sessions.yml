@@ -14,47 +14,41 @@
   title: "Welcome"
   description: "Welcome "
   subtype: workshop
-  speakers: [3, 6]
+  speakers: [3]
   language: en
   complexity: "low"
 -
   id: 002
   title: "Lecture"
-  description: "Pedagogical lecture"
+  description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
   subtype: keynote
-  speakers: [4, 5]
+  speakers: [3]
   language: en
-  complexity: "Intermediate"
-  presentation: "" 
+  complexity: "Intermediate" 
 -
   id: 003
   title: "Contributed talk"
-  description: "News in the field"
+  description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
   subtype: presentation
   speakers: [4]
   language: en
   complexity: "Intermediate" 
-  presentation: ""
 -
   id: 004
   title: "Invited talk"
-  description: ""
+  description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
   subtype: keynote
-  speakers: [6]
+  speakers: [3]
   language: uk
   complexity: "Beginner"
-  presentation: ""
-  video: ""
 -
   id: 005
   title: "Poster Session"
   description: "Presentation of posters"
   subtype: presentation
-  speakers: [7,4,5]
+  speakers: [4,4,4]
   language: en
   complexity: "Expert"
-  presentation: ""
-  video: ""
 -
   id: 006
   title: "Closing discussion"
@@ -62,5 +56,3 @@
   subtype: discussion
   language: en
   complexity: "Expert"
-  presentation: ""
-  video: ""
