@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: " Interpretability and Evaluation of Machine Learning 2020"
+title: "Interpretability and Evaluation of Machine Learning 2020"
 email: ""
 description: ""
 baseurl: ""
@@ -82,7 +82,7 @@ aboutBlock:
 latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersImage: "rockstar-speakers.png"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
